@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: #FFFBF0;
+}
+nav{
+    background-color: #FFFBF0;  
+}
+.bottom-logo-img img{
+    width: 80px;
+}
+.penguin-card{
+    border: 0;
+}
+.penguin-card-footer{
+    border: 0;
+    background-color: white;
+}
+.jacket-img img{
+    width: 90%;
+    margin: 20px auto;
+    border-radius: 5px;
+    padding: 10px;
+
+}
+.buy-btn{
+    background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+    width: 170px;
+    height: 60px;
+    left: 720px;
+    top: 1310px;
+    color: white;
+}
+.buy-btn img{
+    width: 20px;
+}
+.top-banner-title{
+    font-family: 'Open Sans', sans-serif;;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 100px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.top-banner-title-color{
+    color: #FABE4C;
+}
+.price-color{
+    color: #FABE4C;
+    font-weight: 800;
+}
+h5{
+    color: #363958;
+    font-weight: 900;
+    font-size: 20px;
+
+}
+p{
+    color: lightslategray;
+}
+.jacket-title{
+    font-size: 30px;
+    color: #363958;
+    font-weight: 900;
+}
+footer{
+    color: lightslategray;
+}
